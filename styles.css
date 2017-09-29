@@ -1,0 +1,14 @@
+body{
+    font-family : avenir;
+    color : #393838;
+}
+
+h1{
+    font-size : 16 px;
+    font-weight : bold;
+}
+
+ul{
+    border: 3px dotted darkred;
+    border-radius: 25px;
+}
